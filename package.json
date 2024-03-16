@@ -1,6 +1,6 @@
 {
   "name": "welcome-app-tea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -32,6 +32,8 @@
     "welcome-message-app": "^1.0.0",
     "current-date-and-time-app": "^1.0.0",
     "random-number-generator-tea": "^1.0.0",
+    "simple-math-operations-tea": "^1.0.0",
+    "word-count-app-tea": "^1.0.0",
     "welcome-message-tea": "^1.0.0",
     "temperature-converter-tea": "^1.0.0",
     "bmi-calculator-tea": "^1.0.0",
